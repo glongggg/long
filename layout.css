@@ -1,0 +1,33 @@
+.body{
+    display: block;
+    margin: 0;
+    background-image: url(anh/dark-wood.jpg);
+    background-position: center;
+    width: 946px;
+    border: 20px auto;
+}
+.cover{
+    display: block;
+    width: 946px;
+    height: 160px;
+    background-position: center;
+
+}
+.header{
+    width: 946px;
+    height: 130px;
+    background-image: url(anh/header.jpg);
+}
+.header h1{
+    text-indent: -9999px;
+    height: 130px;
+
+}
+.nav {
+    display: inline;
+
+}
+.nav li a {
+    display: inline;
+}
+
